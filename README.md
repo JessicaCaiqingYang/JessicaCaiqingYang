@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jess
-- 👀 I’m interested in coding and teaching Mandarin
+- 👀 I’m interested in software development, teaching Mandarin, and empowering school girls to learn coding
 - 🌱 I’m currently looking for a junior software developer or full stack developer role
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jessicacaiqingyang/)
