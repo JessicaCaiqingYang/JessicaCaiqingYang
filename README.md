@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jess
-- 👀 I’m interested in software development, teaching Mandarin, and empowering school girls to learn coding
-- 🌱 I’m currently looking for a junior software developer or full stack developer role
+- 👩‍💻 My tech stack: Python, SQL, C#
+- 🌱 I’m currently an incoming software developer in an investment bank
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jessicacaiqingyang/)
 
