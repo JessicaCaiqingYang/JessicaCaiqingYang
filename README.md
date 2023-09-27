@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jess
-- 👩‍💻 My tech stack: Python, SQL, C#
+- 👩‍💻 My tech stack: Python, SQL, C#, Docker, AWS
 - 🌱 I’m currently an incoming software developer in an investment bank
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jessicacaiqingyang/)
