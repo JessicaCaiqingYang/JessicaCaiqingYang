@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jess
 - 👩‍💻 My tech stack: Python, SQL, C#, Docker, AWS
-- 🌱 I’m currently an incoming software developer in an investment bank
+- 🌱 I’m currently a software developer in an investment bank specialising in regulatory trade and transaction reporting
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jessicacaiqingyang/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/caiqingyang)
 
 <!---
 JessicaCaiqingYang/JessicaCaiqingYang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
