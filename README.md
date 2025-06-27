@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jess
 - 👩‍💻 My tech stack: C#, Python, SQL, Javascript
-- 🌱 I’m currently a software developer in an investment bank specialising in regulatory trade and transaction reporting
+- 🌱 I’m currently a software developer in an investment bank
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/caiqingyang)
 
